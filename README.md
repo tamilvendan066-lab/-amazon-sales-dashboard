@@ -49,11 +49,3 @@ Built using Python, SQLite, and Power BI.
 - AmazonBasics HDMI Cable is the most reviewed product with 426,973 reviews
 ```
 
----
-
-## Step 5 — Commit your README
-
-1. Scroll down after editing
-2. Click **"Commit changes"**
-3. Done! 
----
